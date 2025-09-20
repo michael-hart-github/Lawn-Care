@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "5240c93ad37c0f3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "81c22d7df0c0a897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c50b1361ebe57e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23726d478024eaa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe95912803677f20",
+        "type": "tabs",
+        "dimension": 71.74638487208009,
+        "children": [
+          {
+            "id": "5072e57c945bcdcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb7c7f69ee3311d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3cb9decf5fc96310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Fleeting/Need context.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Need context"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2192940dcf75c811",
+        "type": "tabs",
+        "dimension": 28.253615127919907,
+        "children": [
+          {
+            "id": "8d3148927fc85def",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.51103591918945
+  },
+  "right": {
+    "id": "6093ae3419064e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4c1ef922b8bd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe1b414d6c2382f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a53ea58d412fb135",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 - Fleeting/CASE-89.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CASE-89"
+            }
+          },
+          {
+            "id": "d7b70b245a13cc3a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bca4fe228066c734",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "0 - Fleeting/CASE-89.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for CASE-89"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5c50b1361ebe57e1",
+  "lastOpenFiles": [
+    "A Beginner’s Guide to Improving Your Lawn This Spring & Summer.md",
+    "0 - Fleeting/FAQ 2.md",
+    "0 - Fleeting/A Beginner’s Guide to Improving Your Lawn This Spring & Summer.md",
+    "0 - Fleeting/FAQ 1.md",
+    "0 - Fleeting/SGIS-79.md",
+    "0 - Fleeting/SGIS-84.md",
+    "0 - Fleeting/SGIS-78.md",
+    "0 - Fleeting/CASE-538.md",
+    "0 - Fleeting/CASE-538-1a.png",
+    "0 - Fleeting/Unconfirmed 734933.crdownload",
+    "0 - Fleeting/CASE-472.md",
+    "0 - Fleeting/CASE-472-1a.png",
+    "0 - Fleeting/Unconfirmed 412822.crdownload",
+    "0 - Fleeting/CASE-526.md",
+    "0 - Fleeting/CASE-526 1.md",
+    "Updating git bash in G+D Laptops.md",
+    "0 - Fleeting/CASE-526-1a.md",
+    "0 - Fleeting/CASE-517.md",
+    "0 - Fleeting/CASE-517-1b.png",
+    "0 - Fleeting/Unconfirmed 171365.crdownload",
+    "0 - Fleeting/CASE-517-1a.png",
+    "0 - Fleeting/Unconfirmed 776380.crdownload",
+    "0 - Fleeting/CASE-507.md",
+    "0 - Fleeting/CASE-96.md",
+    "0 - Fleeting/~$concat-new-old.xlsx",
+    "0 - Fleeting/pic6-sigStaging.png",
+    "0 - Fleeting/pic5-sigStaging.png",
+    "0 - Fleeting/pic4-sigStaging.png",
+    "0 - Fleeting/pic3-sigStaging.png",
+    "0 - Fleeting/pic2-sigStaging.png",
+    "0 - Fleeting/pic1-sigStaging.png",
+    "0 - Fleeting/new-list.json",
+    "0 - Fleeting/concat-new-old.xlsx",
+    "0 - Fleeting/combined-list.md",
+    "0 - Fleeting/CASE-532.md",
+    "0 - Fleeting/CASE-508.md",
+    "0 - Fleeting/Unconfirmed 832341.crdownload",
+    "0 - Fleeting/18A5C900",
+    "0 - Fleeting/1B143600",
+    "test-delete-me.md",
+    "26 AUG 2025 - Updating CM on Wednesday.md",
+    "4 - Final/28 August 2025.md",
+    "0 - Fleeting/IMGCP-976.md",
+    "0 - Fleeting/IMGCP-975.md",
+    "0 - Fleeting/CASE-510.md",
+    "0 - Fleeting/CASE-92.md",
+    "1 - Reference/TD Bank Canvas.canvas",
+    "1 - Reference/Selenium Overview.canvas",
+    "1 - Reference/Org Chart 2022.canvas",
+    "TD Bank Canvas.canvas",
+    "1 - Reference/ICAO Config options.canvas"
+  ]
+}
